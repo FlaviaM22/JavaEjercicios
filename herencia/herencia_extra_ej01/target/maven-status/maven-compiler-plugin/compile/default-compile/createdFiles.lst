@@ -1,0 +1,8 @@
+servicios\ServicioAlquiler.class
+entidades\Barco.class
+entidades\Velero.class
+entidades\Yate.class
+servicios\ServicioBarco.class
+com\mycompany\herencia_extra_ej01\Herencia_extra_ej01.class
+entidades\Alquiler.class
+entidades\AMotor.class
