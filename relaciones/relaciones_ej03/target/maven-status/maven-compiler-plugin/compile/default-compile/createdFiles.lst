@@ -1,0 +1,6 @@
+entidades\Baraja.class
+com\mycompany\relaciones_ej03\Relaciones_ej03.class
+entidades\Carta.class
+enumeraciones\Numero.class
+servicios\BarajaService.class
+enumeraciones\Palo.class
